@@ -1,3 +1,3 @@
 # Programmer's List
-Programmer's List- A simple to do list with more features
+Programmer's List- A simple to do list with more features.
 https://dinuionirinel.github.io/ProgrammerList/
